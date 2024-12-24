@@ -1,9 +1,9 @@
 #include <string>
 #include <iostream>
 #include <limits>
-#include <iomanip>
+#include <iomanip> // buat setw nya baiar tulisann nya jadi rapih
 using namespace std;
-
+// ini variabel yang kita butuhin tapi gatau kepake atau nggk 
 int pasien = 0;
 int noantrian = 0;
 int LoketA[200];
