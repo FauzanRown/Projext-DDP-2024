@@ -1,0 +1,12 @@
+out << "Jenis pelayanan: " << endl;
+        cout << "1. Pelayanan Rawat Inap" << endl;
+        cout << "2. Pelayanan Rawat Jalan" << endl;
+        cout << "3. Pelayanan Gawat Darurat" << endl;
+        cout << "4. Pelayanan Radiologi" << endl;
+        cout << "5. Pelayanan Bedah" << endl;
+        cout << "6. Pelayanan Rehabilitasi" << endl;
+        cout << "7. Pelayanan Kebidanan" << endl;
+        cout << "8. Pelayanan Pediatri (Umum)" << endl;
+        cout << "9. Pelayanan Psikiatri" << endl;
+        cout << "Masukkan jenis pelayanan: ";
+        getline(cin, pelayanan);
